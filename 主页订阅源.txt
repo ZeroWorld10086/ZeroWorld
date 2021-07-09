@@ -1,18 +1,20 @@
-{
-  "articleStyle": 0,
-  "customOrder": -2,
-  "enableJs": true,
-  "enabled": true,
-  "loadWithBaseUrl": true,
-  "ruleArticles": "class.vp_text@tag.p",
-  "ruleContent": "<js>result</js>html##边录音边识别文字，你也试试|累计创作[0-9]+字|登录|保存|下载APP|举报|\\<div class\\=\\\"containers\\\".*|\\<div class\\=\\\"float\\_bottom\\_inner\\_left\\\"\\>.*|\\<div class\\=\\\"user\\_link free\\_down\\\".*|\\<div class\\=\\\"report\\\".*",
-  "ruleImage": "text##.*\\\"pic\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
-  "ruleLink": "text##.*\\\"url\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
-  "rulePubDate": "text##.*\\\"time\\\"\\:\\\"(.*?)\\\".*##$1",
-  "ruleTitle": "text##.*\\\"title\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
-  "singleUrl": false,
-  "sourceGroup": "SVIP",
-  "sourceIcon": "https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/d477b174db98bac52823081bac32c1a4/360",
-  "sourceName": "圣灵综合",
-  "sourceUrl": "http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624174162746634"
-}
+[
+  {
+    "articleStyle": 0,
+    "customOrder": -2,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
+    "ruleArticles": "class.vp_text@tag.p",
+    "ruleContent": "<js>result</js>html##边录音边识别文字，你也试试|累计创作[0-9]+字|登录|保存|下载APP|举报|\\<div class\\=\\\"containers\\\".*|\\<div class\\=\\\"float\\_bottom\\_inner\\_left\\\"\\>.*|\\<div class\\=\\\"user\\_link free\\_down\\\".*|\\<div class\\=\\\"report\\\".*",
+    "ruleImage": "text##.*\\\"pic\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
+    "ruleLink": "text##.*\\\"url\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
+    "rulePubDate": "text##.*\\\"time\\\"\\:\\\"(.*?)\\\".*##$1",
+    "ruleTitle": "text##.*\\\"title\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
+    "singleUrl": false,
+    "sourceGroup": "SVIP",
+    "sourceIcon": "https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/d477b174db98bac52823081bac32c1a4/360",
+    "sourceName": "圣灵综合",
+    "sourceUrl": "http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624174162746634"
+  }
+]
