@@ -1,0 +1,46 @@
+[
+  {
+    "group": "英语翻译",
+    "id": 1615782662129,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "HAPPY/幸福",
+    "order": 356,
+    "pattern": "HAPPY",
+    "replacement": "幸福",
+    "scope": ""
+  },
+  {
+    "group": "英语翻译",
+    "id": 1616596943931,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "bra/胸罩",
+    "order": 357,
+    "pattern": "bra",
+    "replacement": "胸罩",
+    "scope": ""
+  },
+  {
+    "group": "英语替换",
+    "id": 1618211178305,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "firstblood/第一滴血",
+    "order": 358,
+    "pattern": "firstblood|first blood",
+    "replacement": "第一滴血",
+    "scope": ""
+  },
+  {
+    "group": "英语翻译",
+    "id": 1623344423554,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "cheers/干杯",
+    "order": 373,
+    "pattern": "cheers",
+    "replacement": "干杯",
+    "scope": ""
+  }
+]
