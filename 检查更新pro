@@ -1,0 +1,20 @@
+[
+  {
+    "articleStyle": 0,
+    "customOrder": 0,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
+    "ruleArticles": "class.vp_text@tag.p",
+    "ruleContent": "<js>result</js>",
+    "ruleImage": "text##.*\\\"pic\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
+    "ruleLink": "text##.*\\\"url\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
+    "rulePubDate": "text##.*\\\"time\\\"\\:\\\"(.*?)\\\".*##$1",
+    "ruleTitle": "text##.*\\\"title\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
+    "singleUrl": false,
+    "sourceGroup": "SVIP",
+    "sourceIcon": "https://img1.baidu.com/it/u=3298487316,2768493203&fm=26&fmt=auto&gp=0.jpg",
+    "sourceName": "检查更新pro",
+    "sourceUrl": "http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1625883504371266"
+  }
+]
