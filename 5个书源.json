@@ -1,0 +1,206 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "搜索",
+    "bookSourceName": "九九藏书网",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.99csw.com/",
+    "bookUrlPattern": "",
+    "customOrder": -134695,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "传记回忆::http://www.99csw.com/book/index.php?type=传记回忆&page={{page}}\n英文读本::http://www.99csw.com/book/index.php?type=英文读本&page={{page}}\n杂文随笔::http://www.99csw.com/book/index.php?type=杂文随笔&page={{page}}\n言情小说::http://www.99csw.com/book/index.php?type=言情小说&page={{page}}\n历史小说::http://www.99csw.com/book/index.php?type=历史小说&page={{page}}\n侦探推理::http://www.99csw.com/book/index.php?type=侦探推理&page={{page}}\n惊悚悬疑::http://www.99csw.com/book/index.php?type=惊悚悬疑&page={{page}}\n网络玄幻::http://www.99csw.com/book/index.php?type=网络玄幻&page={{page}}\n寓言童话::http://www.99csw.com/book/index.php?type=寓言童话&page={{page}}\n青春都市::http://www.99csw.com/book/index.php?type=青春都市&page={{page}}\n社会心理::http://www.99csw.com/book/index.php?type=社会心理&page={{page}}\n外国小说::http://www.99csw.com/book/index.php?type=外国小说&page={{page}}\n科幻小说::http://www.99csw.com/book/index.php?type=科幻小说&page={{page}}\n当代小说::http://www.99csw.com/book/index.php?type=当代小说&page={{page}}\n武侠小说::http://www.99csw.com/book/index.php?type=武侠小说&page={{page}}\n纪实报告::http://www.99csw.com/book/index.php?type=纪实报告&page={{page}}\n世界历史::http://www.99csw.com/book/index.php?type=世界历史&page={{page}}\n中国历史::http://www.99csw.com/book/index.php?type=中国历史&page={{page}}\n科普学习::http://www.99csw.com/book/index.php?type=科普学习&page={{page}}\n诗歌戏曲::http://www.99csw.com/book/index.php?type=诗歌戏曲&page={{page}}\n宗教哲学::http://www.99csw.com/book/index.php?type=宗教哲学&page={{page}}\n文学理论::http://www.99csw.com/book/index.php?type=文学理论&page={{page}}\n日语读物::http://www.99csw.com/book/index.php?type=日语读物&page={{page}}\n作品集::http://www.99csw.com/book/index.php?type=作品集&page={{page}}\n国学/古籍::http://www.99csw.com/book/index.php?type=国学/古籍&page={{page}}\n战争军事::http://www.99csw.com/book/index.php?type=战争军事&page={{page}}\n政治经济::http://www.99csw.com/book/index.php?type=政治经济&page={{page}}\n古典文学::http://www.99csw.com/book/index.php?type=古典文学&page={{page}}\n现代小说::http://www.99csw.com/book/index.php?type=现代小说&page={{page}}\n官场小说::http://www.99csw.com/book/index.php?type=官场小说&page={{page}}\n轻小说::http://www.99csw.com/book/index.php?type=轻小说&page={{page}})",
+    "lastUpdateTime": 1625881532546,
+    "ruleBookInfo": {
+      "author": "id.book_info@tag.h4.0@tag.a@text",
+      "coverUrl": "id.book_info@img@src",
+      "intro": "id.book_info@class.intro@tag.p@text",
+      "kind": "id.book_info@tag.h4.1@tag.a@text%%id.book_info@tag.h4.2@tag.a.1@text",
+      "name": "id.book_info@tag.h2@text"
+    },
+    "ruleContent": {
+      "content": "id.content@html##九\\-九\\-藏\\-书\\-网|www\\.99lib\\.net|99lib\\.net|第.*章.*"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "tag.h4.0@tag.a@text",
+      "bookList": "id.right@class.list_box@tag.li",
+      "bookUrl": "tag.h2@tag.a@href",
+      "coverUrl": "tag.a.1@img@src",
+      "intro": "class.intro@tag.p@text",
+      "kind": "tag.h4.1@tag.a@text%%tag.h4.2@tag.a.1@text",
+      "name": "tag.h2@tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "id.right@id.dir@tag.dd",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "http://www.99csw.com/book/search.php?s=13139900387823019677&type=%E7%AB%99%E5%86%85&q={{key}}&page={{page}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "搜索(需要转换规则)",
+    "bookSourceName": "笔下看书阁",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.jininggeyin.com/",
+    "bookUrlPattern": "",
+    "customOrder": -134693,
+    "enabled": true,
+    "enabledExplore": false,
+    "header": "",
+    "lastUpdateTime": 1625908058481,
+    "ruleBookInfo": {
+      "author": "class.bookinfo@tag.table@tag.tbody@tag.tr@tag.td.1@tag.p.1@text##作者：",
+      "coverUrl": "class.bookinfo@tag.table@tag.tbody@tag.tr@tag.td.0@img@src",
+      "intro": "class.intro@text##\\s+|(！|。|？|……|】|\\!|\\?)(【|……|[\\u4e00-\\u9fa5])##$1\n$2",
+      "kind": "class.bookinfo@tag.table@tag.tbody@tag.tr@tag.td.1@tag.p.2@tag.a@text",
+      "lastChapter": "class.bookinfo@tag.table@tag.tbody@tag.tr@tag.td.1@tag.p.5@tag.a@text",
+      "name": "class.bookinfo@tag.table@tag.tbody@tag.tr@tag.td.1@tag.p.0@tag.strong@text",
+      "tocUrl": "text.章节目录@href"
+    },
+    "ruleContent": {
+      "content": "class.txt@html##.*秒钟记住本网站.*网站\\!|.*第.*?章.*",
+      "imageStyle": "0",
+      "nextContentUrl": "id.pt_next@href"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "tag.tbody@tag.tr@tag.td.1@tag.div@tag.span.0@text##\\-",
+      "bookList": "class.waps_r.0@tag.table",
+      "bookUrl": "tag.tbody@tag.tr@tag.td.0@tag.a.0@href",
+      "coverUrl": "tag.tbody@tag.tr@tag.td.0@tag.a@tag.img.0@src",
+      "intro": "tag.tbody@tag.tr@tag.td.1@tag.div@tag.a.1@tag.span@text",
+      "kind": "tag.tbody@tag.tr@tag.td.1@tag.div@tag.span.1@text",
+      "lastChapter": "",
+      "name": "tag.tbody@tag.tr@tag.td.1@tag.div@tag.a.0@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.chapterlist@dd||class.last9@tag.li!0",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href",
+      "nextTocUrl": "",
+      "updateTime": ""
+    },
+    "searchUrl": "https://www.jininggeyin.com/search.html?keyword={{key}}&t_btnsearch=",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "搜索,json",
+    "bookSourceName": "☯小说大全,快读",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://sou.jiaston.com",
+    "customOrder": -134690,
+    "enabled": true,
+    "enabledExplore": false,
+    "header": "{\n  \"User-Agent\": \"okhttp/3.5.0\"\n}",
+    "lastUpdateTime": 1625434689980,
+    "ruleBookInfo": {
+      "init": "",
+      "intro": "$..Desc",
+      "name": "##.*\\\"data\\\"\\:\\{\\\"id\\\"\\:[0-9]+\\, \\\"name\\\"\\:\\\"(.*?)\\\"\\,.*##$1"
+    },
+    "ruleContent": {
+      "content": "$.data.content##正在更新中，请稍等片刻.*别忘了点右上角的分享给您好友哦！|\\@\\@"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "$.Author",
+      "bookList": "$.data[*]",
+      "bookUrl": "https://shuapi.jiaston.com/book/{$.Id}/",
+      "coverUrl": "$.Img",
+      "intro": "$.Desc##\\s+|(！|。|？|…|】|\\!|\\?)(【|…|[\\u4e00-\\u9fa5])##$1\n$2",
+      "kind": "$.CName",
+      "lastChapter": "$.LastChapter",
+      "name": "$.Name"
+    },
+    "ruleToc": {
+      "chapterList": "$.data..list..list[*]",
+      "chapterName": "$.name",
+      "chapterUrl": "##.*id.*?([0-9]+).*##$1.html"
+    },
+    "searchUrl": "https://sou.jiaston.com/search.aspx?key={{key}}&page={{page}}&siteid=app2",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "搜索",
+    "bookSourceName": "殿文文学网🧊",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.9kus.com.cn/",
+    "customOrder": -134689,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 1625318226155,
+    "ruleBookInfo": {
+      "author": "",
+      "coverUrl": "class.intro_left fl@class.leftimg@tag.a@img@src",
+      "intro": "class.intro_center fl@class.content@class.cons@textNodes",
+      "kind": "class.intro_center fl@class.totals@tag.a.0@text",
+      "lastChapter": "class.intro_center fl@class.book_catalogue.0@tag.ul@tag.li.0@text##([0-9]+\\-[0-9]+\\-[0-9]+)$##($1)",
+      "name": "class.intro_center fl@tag.h1.0@tag.a@text",
+      "tocUrl": "class.intro_left fl@class.changeFixed@class.infos@tag.a.1@href",
+      "wordCount": "class.intro_center fl@class.totals@text##.*\\|\\s([0-9]+)字\\s\\|.*##$1"
+    },
+    "ruleContent": {
+      "content": "class.allfonts@tag.p@text"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "tag.p.1@tag.a.0@text",
+      "bookList": "class.boardSetCenter search_result ajaxSearchList@class.searchContent",
+      "bookUrl": "tag.a.0@href",
+      "coverUrl": "tag.a.0@img@src",
+      "intro": "class.search_resultResume@text",
+      "kind": "tag.p.1@tag.a.1@text",
+      "name": "tag.p.0@tag.a@text",
+      "wordCount": "tag.p.1@tag.span.1@text##字数\\:"
+    },
+    "ruleToc": {
+      "chapterList": "class.intro_center fl@class.book_catalogue@tag.ul@tag.li",
+      "chapterName": "class.sp2 word-wrap@tag.a@text",
+      "chapterUrl": "class.sp2 word-wrap@tag.a@href",
+      "updateTime": "class.sp4 fr@text"
+    },
+    "searchUrl": "http://www.9kus.com.cn/Search/searchList/key/{{key}}.html",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "搜索",
+    "bookSourceName": "全小说",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://m.quanxiaoshuo.com/",
+    "bookUrlPattern": "https://m.quanxiaoshuo.com/.*",
+    "customOrder": -134688,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 1624370241785,
+    "ruleBookInfo": {
+      "author": "class.n-chapter.0@text##作者：",
+      "intro": "class.n-chapter.3@text##简介：|\\s+|(！|。|？|…|】|\\!|\\?)(【|…|[\\u4e00-\\u9fa5])##$1\n$2",
+      "lastChapter": "class.n-chapter.4@class.chapter.0@tag.a@text",
+      "name": "class.n-title@text"
+    },
+    "ruleContent": {
+      "content": "class.n-chapter@textNodes"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "tag.a@text##.*\\/",
+      "bookList": "class.list@tag.ul@tag.li",
+      "bookUrl": "tag.a@href",
+      "name": "tag.a@tag.span@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.n-chapter.5@class.chapter",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href",
+      "nextTocUrl": "text.下一页@href"
+    },
+    "searchUrl": "https://m.quanxiaoshuo.com/s_{{key}}/{{page}}/",
+    "weight": 0
+  }
+]
