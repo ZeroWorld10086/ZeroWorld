@@ -6,7 +6,7 @@
     "enabled": true,
     "loadWithBaseUrl": true,
     "ruleArticles": "class.vp_text@tag.p",
-    "ruleContent": "<js>result</js>",
+    "ruleContent": "<js>result</js>html##举报文件|谨防刷单兼职，网贷，金融，裸聊敲诈，赌博等诈骗，请立即举报",
     "ruleImage": "text##.*\\\"pic\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
     "ruleLink": "text##.*\\\"url\\\"\\:\\\"(.*?)\\\"\\,.*##$1",
     "rulePubDate": "text##.*\\\"time\\\"\\:\\\"(.*?)\\\".*##$1",
