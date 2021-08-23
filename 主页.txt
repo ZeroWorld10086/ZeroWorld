@@ -1,0 +1,73 @@
+{
+  "name": "阅读3.0说明",
+  "description": "软件相关说明",
+  "link": "https://github.com/ZeroWorld10086/",
+  "list": [
+    {
+      "title":"【必读！！】公告",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624256743527527",
+      "pic":"https://www.dmoe.cc/random.php",
+      "time":"2021/6/21・web阅读使用指南"
+    },
+    {
+      "title":"【FAQ】解决问题",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1625892800250940",
+      "pic":"https://image.16pic.com/00/20/66/16pic_2066130_s.jpg",
+      "time":"2021/07/10"
+    },
+    {
+      "title":"【导入】书源3.0[硬核版]",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624287381814356",
+      "pic":"https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/3243a9ce843ac90356f42f8680fb6137/362",
+      "time":"实时更新"
+    },
+    {
+      "title":"【导入】订阅源",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624243929100687",
+      "pic":"https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/1f29c3af5d846cdc18011161976a28fe/365",
+      "time":"2021/07/11"
+    },
+    {
+      "title":"【导入】替换和删除",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624341352221697",
+      "pic":"https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/de71525d770982d6c114a7dbc3354040/367",
+      "time":"2021/07/11"
+    },
+    {
+      "title":"【自带】软件功能",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624343303105662",
+      "pic":"https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/4db186fc7ff489921292e9a0fa6b7482/366",
+      "time":"2021/06/23"
+    },
+    {
+      "title":"【小说】小说分享",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624356877550984",
+      "pic":"https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/5ad30d752b480ec398f7478181c867d9/370",
+      "time":"2021/06/22"
+    },
+    {
+      "title":"【软件】VPN",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624449866191816",
+      "pic":"https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb13495408584e6e5a4e9258d1094a71?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",
+      "time":"随机更新"
+    },
+    {
+      "title":"【软件】软件合集",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624450248328537",
+      "pic":"https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/90f10e68c0aafd2da7829a00978fc3f9/372",
+      "time":"2021/06/23"
+    },
+    {
+      "title":"书源/软件简化关于",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1624278689405925",
+      "pic":"https://note.youdao.com/yws/public/resource/bc48248f2c3431cb06447ab7ec93741e/xmlnote/74efd8c3cd329beab894d8a33e9215d1/364",
+      "time":"2021/06/21"
+    },
+    {
+      "title":"免责声明",
+      "url":"http://www.iyuji.cn/iyuji/s/STR2aUxaL3d0UmVqZUpkWHdkQ0xpQT09/1625273994622479",
+      "pic":"https://www.dmoe.cc/random.php",
+      "time":"更改时间：2021/07/03"
+    }
+  ]
+}
